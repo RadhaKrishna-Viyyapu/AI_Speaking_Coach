@@ -1,0 +1,326 @@
+Sentence: i am work in TCS
+Corrected sentence:
+I work at TCS.
+
+Mistakes:
+- Lack of preposition "at" between "work" and "TCS"
+- Should be a capital letter for the first person singular pronoun "I"
+
+Explanation
+The original sentence lacks a preposition to indicate the location of work, and it also fails to capitalize the first-person singular pronoun.
+
+Fluency score: 2/10
+==================================================
+
+Sentence: eating apple
+Corrected sentence: I am eating an apple.
+
+Mistakes:
+- Missing verb "am" and article "an"
+- No word boundary between "eating" and "apple"
+
+Explanation: The sentence is missing the linking verb "am" to connect the subject "I" to the predicate, and it also lacks the indefinite article "an" before the noun "apple". Additionally, there is no space or punctuation between the verb "eating" and the noun "apple", making it difficult to read.
+
+Fluency score: 2/10
+==================================================
+
+Sentence: i am work in TCS
+Corrected sentence: I work at TCS.
+
+Mistakes:
+- Subject-verb agreement error (should be "I am working" instead of "I am work")
+- Incorrect preposition ("in" is not the correct preposition to use in this context)
+
+Explanation
+The original sentence has a subject-verb agreement error, and the incorrect preposition "in" should be replaced with "at".
+
+Fluency score: 4/10
+==================================================
+
+
+[04-06-2026 21:59:S]
+Sentence: im working in tcs
+Corrected sentence: I am working in TCS.
+
+Mistakes:
+- Missing article ("the") before the name of the company
+- Lowercase "i" should be uppercase "I"
+
+Explanation: The original sentence lacks a definite article and has incorrect capitalization.
+
+Fluency score: 2/10
+==================================================
+
+
+[04-06-2026 22:00:S]
+Sentence: may i goto basketball
+Here's the analysis:
+
+Corrected sentence: May I go to the basketball game?
+
+Mistakes:
+- may -> Should be a capital letter (May)
+- goto -> Should be "go" or "going to"
+
+Explanation: The original sentence has incorrect capitalization and verb usage.
+
+Fluency score: 4/10
+==================================================
+
+
+[05-06-2026 11:30:S]
+Sentence:  When you will come, I am waiting for you.
+
+[05-06-2026 11:34:S]
+Sentence:  voy a cho plate para as Cartфillon por su trabajo sent Hafas y stealing taxensfachar En el justo
+Corrected sentence:
+I'm going to the plate to help Cartillo with his work and learning the tax system in a fair way.
+
+Mistakes:
+- voy should be I'm (incorrect verb conjugation)
+- cho plate is unclear, should be something like "help Cartillo" or "meet Cartillo"
+- as Cartfillon should be with Cartillo
+- Hafas is an unknown word, likely meant to be "he" or "him"
+- stealing is not grammatically correct in this context, should be "learning the tax system"
+- En el justo is unclear, likely meant to be something like "in a fair way"
+
+Explanation:
+The sentence appears to be attempting to describe someone's intention to assist Cartillo with his work and learn about taxation. However, the sentence structure and vocabulary are incorrect.
+
+Fluency score:
+2/10
+==================================================
+
+
+[05-06-2026 11:35:S]
+Sentence:  I don't know what's wrong, I'm waiting for you.
+Corrected sentence:
+I don't know what's wrong; I'm waiting for you.
+
+Mistakes:
+- Missing conjunction to connect two independent clauses
+- Semicolon (;) should be used instead of comma (,) after "wrong"
+
+Explanation:
+The original sentence consists of two independent clauses joined by a comma, which is incorrect. A semicolon or a conjunction like "and" or "but" should be used to connect the two clauses.
+
+Fluency score: 6/10
+==================================================
+
+
+[05-06-2026 11:45:S]
+Sentence:  Okay, that will be going. I too will join in.
+Corrected sentence: I will be going. You too will join in.
+
+Mistakes:
+- "that will be going" should be rewritten as "I will be going"
+- "I too will join in" is a correct phrase, but it would make more sense to place it at the end of the sentence
+
+Explanation: The original sentence has some awkward phrasing and incorrect word order.
+
+Fluency score: 6/10
+==================================================
+
+
+============================================================
+
+[05-06-2026 14:25:S]
+Sentence:  I go to school.
+Corrected sentence:
+I attend school.
+
+Mistakes:
+- No verb in the past tense
+- No subject-verb agreement (should be "I attended school" if it's talking about a past event)
+
+Explanation:
+The original sentence is in the present simple tense, which implies that the speaker goes to school currently. However, there are no time markers or context to indicate whether this is referring to a specific point in time. The corrected sentence uses the present continuous tense ("attend") to indicate that the action of going to school is ongoing.
+
+Fluency score: 6/10
+
+============================================================
+
+============================================================
+
+[05-06-2026 14:29:S]
+Sentence:  I am Go School Yesterday.
+Here's my analysis:
+
+Corrected sentence: I went to Go School yesterday.
+
+Mistakes:
+- "am" should be "went", as it doesn't make sense in this context
+- "Yesterday" should be "yesterday", with a lowercase first letter (assuming it's the start of a new sentence)
+
+Explanation: The original sentence seems to be trying to say that the speaker went to school yesterday, but the verb tense and word order are incorrect.
+
+Fluency score: 2/10
+
+============================================================
+
+============================================================
+
+[05-06-2026 14:30:S]
+Sentence:  i am learning python everyday
+Corrected sentence: I am learning Python every day.
+
+Mistakes:
+- "python" should be capitalized as it's a proper noun (a programming language)
+- missing article ("the") before "every day"
+
+Explanation: The original sentence is close, but the capitalization of "Python" and the addition of the article "the" are necessary for correct grammar and punctuation.
+
+Fluency score: 6/10
+
+============================================================
+
+============================================================
+
+[05-06-2026 14:32:S]
+Sentence:  I am a ghost school yesterday.
+Corrected sentence: I attended a ghost school yesterday.
+
+Mistakes:
+- "I am" should be "I attended", as "am" indicates a state of being rather than an action (attending).
+- The phrase "a ghost school" is unclear and likely meant to convey that the speaker did not physically attend a school, but this could be rephrased for better understanding.
+
+Explanation: The original sentence contains two main issues. Firstly, the use of "I am" implies a state rather than an action, making it unclear what the speaker means by "ghost school". Secondly, the phrase itself is ambiguous and does not convey the intended meaning.
+
+Fluency score: 2/10
+
+============================================================
+
+============================================================
+
+[05-06-2026 14:33:S]
+Sentence:  i am learning python everyday
+Here's my analysis:
+
+Corrected sentence: I am learning Python every day.
+
+Mistakes:
+- Missing article ("the" or "a") before "Python" (assuming it refers to a specific type of programming language)
+- Incorrect use of "everyday" instead of the correct adverb "every day"
+
+Explanation: The main mistake is the incorrect capitalization of the first letter of the programming language Python, which should be capitalized as per convention. Additionally, "everyday" is an adjective that typically refers to something related to daily life, whereas in this context, the correct adverb "every day" is needed.
+
+Fluency score: 6/10
+
+============================================================
+
+============================================================
+
+[05-06-2026 14:33:S]
+Sentence:  Good morning, have a nice day.
+Corrected sentence: Good morning. Have a nice day.
+
+Mistakes:
+- None (the original sentence was already grammatically correct)
+
+Explanation: The sentence "Good morning, have a nice day" is indeed grammatically correct and does not contain any noticeable errors. It's a simple greeting followed by a well-wishing phrase, both of which are appropriate and idiomatic in English.
+
+Fluency score: 10/10
+
+============================================================
+
+============================================================
+
+[05-06-2026 15:42:S]
+Sentence:  Hey, over you, nice to meet you.
+Corrected sentence:
+Hey, over there, nice to meet you.
+
+Mistakes:
+- "you" should be replaced with "there" because it's indicating a location
+- The sentence implies that the speaker is standing directly above the person they're meeting, which is unlikely; using "there" instead clarifies the intended meaning
+
+Explanation:
+The original sentence has a few issues. "Over you" doesn't quite work because it sounds like the speaker is hovering above someone, whereas "over there" is more common and idiomatic.
+
+Fluency score: 4/10
+
+============================================================
+
+============================================================
+
+[05-06-2026 15:45:S]
+Sentence:  Will you join me for paying a cricket?
+Corrected sentence: Will you join me for a game of cricket?
+
+Mistakes:
+- "paying" should be replaced with "a game of"
+- The phrase "for paying" is unclear and doesn't make sense in the context of the sentence. It's likely that the speaker meant to invite someone to play cricket.
+
+Explanation: The original sentence contains an unclear phrase and uses a verb ("paying") that doesn't fit with the intended meaning.
+
+Fluency score: 2/10
+
+============================================================
+
+============================================================
+
+[05-06-2026 15:59:S]
+Sentence:  I work at TCS.
+Corrected sentence:
+I work at TCS.
+
+Mistakes:
+- None (the sentence is grammatically correct)
+
+Explanation:
+The sentence "I work at TCS" is a simple statement that does not contain any grammatical errors. The subject-verb agreement, tense, and article usage are all correct.
+
+Fluency score: 9/10
+
+============================================================
+
+============================================================
+
+[05-06-2026 16:09:S]
+Sentence:  مالذي الطريق الاتív Bharin
+Corrected sentence:
+What is the way to Bharin?
+
+Mistakes:
+- Missing article "the" at the beginning of the sentence
+- "Maladhi" should be translated to "What", not "Maladhi"
+- "الطريق" means "way" or "path", not "to"
+
+Explanation:
+The original sentence appears to be a mix of Arabic and English. The correct translation would be "What is the way to Bharin?", but there are some grammatical issues that need to be addressed.
+
+Fluency score: 2/10
+
+============================================================
+
+============================================================
+
+[05-06-2026 16:11:S]
+Sentence:  Will you come with me?
+Here's the analysis:
+
+Corrected sentence: Will you come with me?
+
+Mistakes:
+- None
+
+Explanation: The original sentence is grammatically correct. It's a polite and straightforward invitation.
+
+Fluency score: 10/10
+
+============================================================
+
+============================================================
+
+[05-06-2026 17:08:S]
+Sentence:  I am going to down today.
+Corrected sentence: I am going to go down today.
+
+Mistakes:
+- "down" should be replaced with "go", as "down" doesn't make sense in this context.
+
+Explanation: The original sentence is trying to convey the idea of taking a break or relaxing, but the word "down" is not grammatically correct. It's likely that the speaker meant to say "go down" which means to take a break or have some time off.
+
+Fluency score: 4/10
+
+============================================================
