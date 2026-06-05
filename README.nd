@@ -1,0 +1,75 @@
+# AI Speaking Coach
+
+An AI-powered English Speaking Coach built using Python, Whisper, Ollama, and Llama 3.
+
+## Features
+
+- Speech Recording
+- Speech to Text Conversion
+- Grammar Correction
+- Fluency Scoring
+- Progress Tracking
+- Score Statistics
+- PDF Report Generation
+- Session History Storage
+
+## Technologies Used
+
+- Python
+- OpenAI Whisper
+- Ollama
+- Llama 3
+- ReportLab
+- SoundDevice
+
+## Project Structure
+
+AI_Speaking_Coach/
+
+├── speaking_coach.py
+
+├── speech_to_text.py
+
+├── ai_corrector.py
+
+├── voice_test.py
+
+├── history.txt
+
+├── scores.txt
+
+└── Speaking_Report.pdf
+
+## How to Run
+
+1. Install Python
+2. Install Ollama
+3. Pull Llama 3
+
+```bash
+ollama pull llama3
+```
+
+4. Install dependencies
+
+```bash
+pip install whisper sounddevice scipy reportlab ollama
+```
+
+5. Run
+
+```bash
+python speaking_coach.py
+```
+
+## Features Demonstration
+
+- Record speech
+- Analyze grammar
+- Get fluency score
+- Track improvement
+- Generate PDF reports
+
+## Author
+
+Radhakrishna
