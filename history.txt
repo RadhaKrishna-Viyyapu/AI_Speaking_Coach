@@ -324,3 +324,241 @@ Explanation: The original sentence is trying to convey the idea of taking a brea
 Fluency score: 4/10
 
 ============================================================
+
+============================================================
+[06-06-2026 12:51:10]
+Sentence:  Where are you going? I have to join with you.
+Here's the analysis of the sentence:
+
+**Corrected sentence:** Where are you going? I'd like to come along.
+
+**Mistakes:**
+
+* "I have to join with you" is not a grammatically correct phrase. The verb "to join" requires an object, and "with you" doesn't quite fit.
+* "join with" should be replaced with the more natural expression "come along".
+
+**Explanation:** The original sentence has some errors in terms of grammar and syntax. Specifically, the phrase "I have to join with you" is awkwardly phrased and doesn't convey the intended meaning. A more natural way to express this thought would be to say "I'd like to come along", which is a common idiomatic expression.
+
+**Fluency score:** 4/10
+
+Note: Fluency scores are subjective, but in general, I assess fluency based on factors such as grammar, syntax, and overall clarity of expression. In this case, the original sentence has some notable errors that detract from its fluency.
+
+============================================================
+[06-06-2026 12:59:27]
+Sentence:  I completed my internship in RINL.
+Here's the analysis of the sentence:
+
+**Corrected sentence:**
+I completed my internship at RINL.
+
+**Mistakes:**
+
+* - No definite article "the" before the name of the organization (should be "at The RINL")
+* - Lack of clarity about what RINL stands for (assuming it's a company or institution, but it would be more clear with the full name)
+
+**Explanation:**
+The original sentence is missing the definite article "the" before the name of the organization, which makes it unclear what specific RINL refers to. Additionally, not specifying what RINL stands for can cause confusion.
+
+**Fluency score:** 6/10
+
+(Note: Fluency scores are subjective and may vary based on individual perspectives.)
+
+============================================================
+[06-06-2026 13:06:19]
+Sentence:  I want to start friend cell moulding course.
+Here is the analysis:
+
+Corrected sentence: I want to take a ceramics or pottery course.
+
+Mistakes:
+- "friend" should be replaced with a word that indicates what type of class you are interested in (e.g. "ceramics", "pottery")
+- "cell moulding" is likely a typo and should be replaced with the correct term for this type of crafting
+
+Explanation: The original sentence lacks clarity and contains errors. The word "friend" doesn't make sense in this context, and "cell moulding" seems to be a typo.
+
+Fluency score: 2/10
+
+============================================================
+[06-06-2026 13:06:49]
+Sentence:  I want to start financial modeling course.
+Here is the analysis of the sentence:
+
+**Corrected sentence:**
+I want to take a financial modeling course.
+
+**Mistakes:**
+
+* - The word "start" doesn't quite fit in this context, as it's not clear what the speaker wants to start. Taking a course makes more sense.
+* No mistake 2.
+
+**Explanation:**
+The original sentence is somewhat ambiguous and unclear. The corrected sentence clarifies the intention of taking a financial modeling course, making it more specific and understandable.
+
+**Fluency score:** 6/10
+The sentence has some issues with clarity and precision, but the grammar and vocabulary are generally correct. With a small tweak, the sentence becomes much clearer and easier to understand.
+
+============================================================
+[06-06-2026 13:15:23]
+Sentence:  Will you join me for basketball?
+Here is the analysis of the sentence:
+
+Corrected sentence:
+Will you join me for a game of basketball?
+
+Mistakes:
+- Missing article ("a") before "game of basketball"
+
+Explanation:
+The original sentence lacks an article ("the" or "a") to provide more specificity and clarity about what type of activity is being referred to. Adding the indefinite article "a" helps to make the request clearer.
+
+Fluency score:
+8/10
+
+============================================================
+[06-06-2026 13:16:25]
+Sentence:  I don't want to talk with you until...
+Here's the analysis:
+
+**Corrected sentence:**
+I don't want to talk with you until...
+
+**Mistakes:**
+
+* - "until..." should be a separate independent clause, not a dependent clause. The corrected sentence should be more like "I don't want to talk with you until [insert specific condition or reason]."
+
+**Explanation:**
+The original sentence is incomplete and lacks a clear purpose for the speaker's reluctance to communicate. Adding a specific condition or reason would make the sentence more cohesive and meaningful.
+
+**Fluency score:** 2/10
+The sentence lacks clarity, coherence, and a complete thought, making it difficult to understand and relate to.
+
+============================================================
+[06-06-2026 13:23:24]
+Sentence:  I don't want to talk with you until you play basketball and this time we have to win the trophy at an equals. Let's go boys.
+Here is the analysis of the sentence:
+
+Corrected sentence:
+I don't want to talk about basketball until we play and win the trophy together. Let's go, boys!
+
+Mistakes:
+- "with you" should be replaced with "about basketball" to make sense in the context.
+- "at an equals" doesn't make sense; it should be replaced with "together".
+- "this time we have to" is unnecessary and makes the sentence sound forced; it can be simplified by removing these words.
+
+Explanation:
+The original sentence has some grammatical errors that make it hard to understand. It also sounds quite confrontational, which may not be the intended tone. The corrected sentence aims to convey a more positive and collaborative attitude towards playing basketball.
+
+Fluency score:
+6/10
+
+Note: I gave a fluency score of 6/10 because while the original sentence has some errors, it still conveys a sense of urgency and importance, which can be effective in certain situations. However, the language is not polished or natural-sounding, which is why I deducted points for fluency.
+
+============================================================
+[06-06-2026 13:40:35]
+Sentence:  bring your laptop and so your code.
+Here is the analysis of the given sentence:
+
+**Corrected sentence:** Bring your laptop and show your code.
+
+**Mistakes:**
+
+* "so" should be replaced with "show", as it's a verb that means to demonstrate or present something, whereas "so" has different meanings depending on the context.
+* The sentence is missing an article ("your") before the word "code".
+
+**Explanation:** The original sentence had a few issues with word choice and grammar. The main mistake was using "so" instead of the correct verb "show", which changed the meaning of the sentence.
+
+**Fluency score:** 6/10
+
+============================================================
+[06-06-2026 13:43:41]
+Sentence:  I want to meet you.
+Here's the analysis:
+
+**Corrected sentence:**
+I would like to meet you.
+
+**Mistakes:**
+
+* "want" is not a polite way to make a request in formal English; instead, we use expressions like "would like to" or "would love to".
+* The sentence lacks a subject-verb agreement (the subject "I" should be followed by the verb "would like", not just "meet").
+
+**Explanation:**
+The original sentence is simple and straightforward, but it lacks politeness and formality. In English, making requests in formal situations often requires using polite language to avoid coming across as abrupt or demanding.
+
+**Fluency score:**
+4/10
+
+============================================================
+[06-06-2026 13:51:16]
+Sentence:  We are going wait, I2 will join.
+Here's the analysis:
+
+Corrected sentence:
+We are going to wait; I'll join.
+
+Mistakes:
+- "I2" should be replaced with the correct contraction "I'll"
+- The sentence is a bit awkwardly structured, but this is likely due to a mistake rather than a linguistic one.
+
+Explanation:
+The main issue with this sentence is the incorrect use of the number "I2", which doesn't exist in English. Additionally, the sentence structure could be improved for better clarity and flow.
+
+Fluency score: 4/10
+
+Note: The fluency score takes into account both grammatical accuracy and linguistic fluency. In this case, the corrected sentence is still a bit awkwardly structured, but it's much closer to standard English than the original sentence.
+
+============================================================
+[06-06-2026 13:55:23]
+Sentence:  Where are you going? Dead eye 2 will join.
+Here's the analysis:
+
+**Corrected sentence:**
+Where are you going? Deadpool 2 will join.
+
+**Mistakes:**
+
+* "Dead eye" should be spelled correctly as "Deadpool", which is a popular comic book character.
+* The capitalization of "dead eye" is incorrect, it should be in lowercase as part of the sentence.
+
+**Explanation:**
+The original sentence contains a mistake in spelling and capitalization. The correct name of the character is Deadpool, not Dead eye. The corrected sentence maintains the same structure and meaning as the original sentence, but with the correct spelling and capitalization.
+
+**Fluency score:** 7/10
+The sentence has a simple structure and uses basic vocabulary, making it easy to understand. However, the mistake in spelling and capitalization detracts from its overall fluency. With minor corrections, the sentence can improve its fluency score.
+
+============================================================
+[06-06-2026 13:59:31]
+Sentence:  I want to talk with you right now.
+Here's the analysis:
+
+**Corrected sentence:**
+I would like to talk with you right now.
+
+**Mistakes:**
+
+* "want" should be replaced with a more polite expression, such as "would like"
+* The phrase "right now" is informal and could be improved for a more formal conversation
+
+**Explanation:**
+The original sentence lacks politeness and formality. Using "I want to" can come across as demanding, whereas "I would like to" shows consideration for the listener's time. Additionally, the phrase "right now" is quite casual and may not be suitable for all situations.
+
+**Fluency score:** 6/10
+
+Note: The fluency score takes into account both grammar and vocabulary, but also considers the overall flow and clarity of the sentence.
+
+============================================================
+[06-06-2026 14:02:11]
+Sentence:  I wanna meet you today. Good evening.
+Here's the analysis:
+
+Corrected sentence: "I'd like to meet you today. Good evening."
+
+Mistakes:
+
+* "wanna" should be replaced with the correct contraction "wouldn't" or the more formal phrase "like to"
+* The sentence is a bit abrupt and would benefit from a more natural transition between greetings and requests.
+
+Explanation:
+The original sentence has some issues with grammar, tone, and transition. It's also quite informal and might not be suitable for most professional or formal settings. I've corrected it to make it sound more polite and natural in English.
+
+Fluency score: 4/10
